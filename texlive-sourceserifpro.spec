@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Use SourceSerifPro with TeX(-alike) systems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sourceserifpro
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sourceserifpro
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourceserifpro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sourceserifpro.doc.r%{version}.tar.xz
